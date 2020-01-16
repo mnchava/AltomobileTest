@@ -66,7 +66,6 @@ class ListViewController: UITableViewController {
     }
     
     override func tableView(_ tableView: UITableView, didSelectRowAt indexPath: IndexPath) {
-        //let cell = tableView.dequeueReusableCell(withIdentifier: "celda", for: indexPath) as! animalCell
         let animal = animales[indexPath.row]
         
         if animal.animal.name == "Altomobile" {
