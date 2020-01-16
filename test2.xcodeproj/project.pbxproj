@@ -17,6 +17,7 @@
 		3E4C377C23CE38AF0047CD9C /* ListViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3E4C377B23CE38AF0047CD9C /* ListViewController.swift */; };
 		3E4C377E23CE38D60047CD9C /* Data.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3E4C377D23CE38D60047CD9C /* Data.swift */; };
 		3E4C378423CE39890047CD9C /* logo.png in Resources */ = {isa = PBXBuildFile; fileRef = 3E4C378123CE39890047CD9C /* logo.png */; };
+		3E965CD123D107940094012D /* untitled (1).png in Resources */ = {isa = PBXBuildFile; fileRef = 3E965CD023D107930094012D /* untitled (1).png */; };
 		825F71BC56D625F1F56841CD /* Pods_test2.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6FB6396B7A5011390211AA39 /* Pods_test2.framework */; };
 /* End PBXBuildFile section */
 
@@ -34,6 +35,7 @@
 		3E4C377B23CE38AF0047CD9C /* ListViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListViewController.swift; sourceTree = "<group>"; };
 		3E4C377D23CE38D60047CD9C /* Data.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Data.swift; sourceTree = "<group>"; };
 		3E4C378123CE39890047CD9C /* logo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = logo.png; sourceTree = "<group>"; };
+		3E965CD023D107930094012D /* untitled (1).png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "untitled (1).png"; sourceTree = "<group>"; };
 		6FB6396B7A5011390211AA39 /* Pods_test2.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_test2.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		9AF12975D38B76B505C4E804 /* Pods-test2.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-test2.release.xcconfig"; path = "Target Support Files/Pods-test2/Pods-test2.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -88,6 +90,7 @@
 				3E482F1C23CE2D740064E117 /* Main.storyboard */,
 				3E482F1F23CE2D780064E117 /* Assets.xcassets */,
 				3E4C378123CE39890047CD9C /* logo.png */,
+				3E965CD023D107930094012D /* untitled (1).png */,
 				3E201FDE23D055C20074287F /* default.png */,
 				3E482F2123CE2D780064E117 /* LaunchScreen.storyboard */,
 				3E482F2423CE2D780064E117 /* Info.plist */,
@@ -166,6 +169,7 @@
 			files = (
 				3E482F2323CE2D780064E117 /* LaunchScreen.storyboard in Resources */,
 				3E201FDF23D055C20074287F /* default.png in Resources */,
+				3E965CD123D107940094012D /* untitled (1).png in Resources */,
 				3E4C378423CE39890047CD9C /* logo.png in Resources */,
 				3E482F2023CE2D780064E117 /* Assets.xcassets in Resources */,
 				3E482F1E23CE2D740064E117 /* Main.storyboard in Resources */,

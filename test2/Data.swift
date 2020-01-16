@@ -18,7 +18,6 @@ struct animalConFoto: Identifiable{
 class downloader{
     var arrayAnimal: [Animal] = []
     let decoder = JSONDecoder()
-//    var arrayConFotos: [animalConFoto] = [animalConFoto(animal: Animal(id: 5000, life: 8, name: "Altomobile", pictureURL: URL(fileReferenceLiteralResourceName: "logo.jpg").absoluteString), id: 5000, image: UIImage(imageLiteralResourceName: "logo.jpg"))]
     var arrayConFotos: [animalConFoto] = [animalConFoto(animal: Animal(id: 5000, life: 2015, name: "Altomobile", pictureURL: URL(fileReferenceLiteralResourceName: "logo.png").absoluteString), id: 5000, image: UIImage(imageLiteralResourceName: "logo.png"))]
     let jsonURL = "https://flavioruben.herokuapp.com/data.json"
     var completionTime = 0.0
@@ -26,7 +25,6 @@ class downloader{
     
     init() {
         downloadJSON()
-        //sleep(7)
     }
     
     func downloadJSON(){
@@ -79,7 +77,6 @@ class downloader{
     }
     
     func getPhotos(){
-        //var foto: UIImage
         for animal in self.arrayAnimal{
             do{
                 if animal.pictureURL.isEmpty {
