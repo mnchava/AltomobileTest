@@ -1,3 +1,3 @@
 # AltomobileTest
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DDzTJhnN5cA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Altomobile Demo](https://youtu.be/DDzTJhnN5cA)](https://youtu.be/DDzTJhnN5cA "Altomobile Demo- Click to Watch!")
