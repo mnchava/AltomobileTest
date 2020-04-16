@@ -1,3 +1,3 @@
 # AltomobileTest
 
-[![Altomobile Demo](https://drive.google.com/file/d/1PUfeIUBbx_v4LzRal2OJeXnp6konWHDJ/view?usp=sharing](https://youtu.be/DDzTJhnN5cA "Altomobile Demo- Click to Watch!")
+[![Altomobile Demo](https://i.imgur.com/1GcrGXC.png?1](https://youtu.be/DDzTJhnN5cA "Altomobile Demo- Click to Watch!")
